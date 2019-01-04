@@ -99,8 +99,10 @@ Actor Balloon : Ammo 10610 {
     Tag                     "$DRRP_I_HALONCAN"
     Scale                   2.0
     Ammo.BackpackAmount     20
+    //Ammo.BackpackMaxAmount  600
     Ammo.BackpackMaxAmount  99
     Inventory.Amount        20
+    //Inventory.MaxAmount     300
     Inventory.MaxAmount     99
     Inventory.Icon          "BALLA0"
     Inventory.PickupSound   "weapon/gas"
